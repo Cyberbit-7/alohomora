@@ -20,7 +20,9 @@ Wait until a "Network not available" screen appears. Click "Accessibility", then
 
 ### Step 4a
 Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Don't type anything into the pop-up; just wait until a "Connectivity Diagnostics" window appears. 
-![IMG_3073 (1)](https://github.com/KC728/alohomora/assets/131726269/36c3daed-d1b8-469d-b94f-e0bfcff0c5ed)
+
+![IMG_3083](https://github.com/KC728/alohomora/assets/131726269/5ff56674-c16c-48be-ae4a-3cd1bfbb0644)
+
 
 ### Step 5a
 Click on "Wi-Fi", then click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
