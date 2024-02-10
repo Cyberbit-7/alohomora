@@ -5,18 +5,23 @@
 
 ### Step 1a
 Go to logout screen, and turn off Wi-Fi using the control panel on bottom right.
+![IMG_3073 (1)](https://github.com/KC728/alohomora/assets/131726269/3ae1653a-7ffc-4e75-a8ca-2ab6f77e8fa2)
 
 ### Step 2a
 Click on one of the apps in the "apps" section on the bottom left. "Formative Lockdown Browser" has been shown to have the best results, but others may also work. Quickly press Alt+Shift+S, this should open up a control panel window.
+![IMG_3075](https://github.com/KC728/alohomora/assets/131726269/cb3805a5-36e6-4cb7-9075-44abaf03f2bf)
 
 ### Step 3a
-Wait until a "network unavailable" screen appears. Click "Accessibility", then click the "help" question mark. This will close the control panel window, but an invisible window will appear in the background.
+Wait until a "Network not available" screen appears. Click "Accessibility", then click the "help" question mark. This will close the control panel window, but an invisible window will appear in the background.
+![IMG_3085](https://github.com/KC728/alohomora/assets/131726269/8eb4c0e6-0908-4c1d-941d-56d560ae1a33)
 
 ### Step 4a
 Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Don't type anything into the pop-up; just wait until a "Connectivity Diagnostics" window appears. 
+![IMG_3073 (1)](https://github.com/KC728/alohomora/assets/131726269/36c3daed-d1b8-469d-b94f-e0bfcff0c5ed)
 
 ### Step 5a
-Click on "Wi-Fi", then click on "Open in settings", which will boot you into a basic Google window. This is as far as the exploit goes.
+Click on "Wi-Fi", then click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
+![image](https://github.com/KC728/alohomora/assets/131726269/7d2d2499-133d-4331-966c-ce79f0ab15b5)
 
 ## Installing Alohomora
 
