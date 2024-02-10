@@ -55,6 +55,9 @@ While using school Wi-Fi, network blocks for things like Netflix and CoolMathGam
 ### Using kiosk app normally
 You may sometimes need to use the kiosk app for things like standardized testing. To use the kiosk app normally, hold down the Power button on the left side of your Chromebook, then click "Sign-out" in order to exit the exploit. Then boot into the kiosk app normally.
 
+## Warning
+Warning: Alohomora runs off of a file that will be located inside your downloads folder. This file will either be called "alohomora" or "alohmora-main". Deleting this file will cause the extension to cease functioning. If this happens, you will need to redownload the file, and follow steps 1b-5b in order to restore functionality.
+
 ## Issue Reports/Tech Support:
 https://forms.gle/wu4ocQ1q4bPGiUSr7
 
