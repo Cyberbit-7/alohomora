@@ -5,14 +5,17 @@
 
 ### Step 1a
 Go to logout screen, and turn off Wi-Fi using the control panel on bottom right.
-![IMG_3073 (1)](https://github.com/KC728/alohomora/assets/131726269/3ae1653a-7ffc-4e75-a8ca-2ab6f77e8fa2)
+
+![image](https://github.com/KC728/alohomora/assets/131726269/044b01a3-53b2-41be-a787-80075ef4a1cb)
 
 ### Step 2a
 Click on one of the apps in the "apps" section on the bottom left. "Formative Lockdown Browser" has been shown to have the best results, but others may also work. Quickly press Alt+Shift+S, this should open up a control panel window.
-![IMG_3075](https://github.com/KC728/alohomora/assets/131726269/cb3805a5-36e6-4cb7-9075-44abaf03f2bf)
+
+![image](https://github.com/KC728/alohomora/assets/131726269/3b7ce8dd-a06c-4fd7-8675-a5fe35c244ae)
 
 ### Step 3a
 Wait until a "Network not available" screen appears. Click "Accessibility", then click the "help" question mark. This will close the control panel window, but an invisible window will appear in the background.
+
 ![IMG_3085](https://github.com/KC728/alohomora/assets/131726269/8eb4c0e6-0908-4c1d-941d-56d560ae1a33)
 
 ### Step 4a
@@ -21,7 +24,8 @@ Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Do
 
 ### Step 5a
 Click on "Wi-Fi", then click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
-![image](https://github.com/KC728/alohomora/assets/131726269/7d2d2499-133d-4331-966c-ce79f0ab15b5)
+
+![image](https://github.com/KC728/alohomora/assets/131726269/7726ab64-ff05-45a0-b272-9467474446ec)
 
 ## Installing Alohomora
 
