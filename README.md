@@ -27,7 +27,7 @@ Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Do
 ### Step 5a
 Click on "Wi-Fi", then click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
 
-![image](https://github.com/KC728/alohomora/assets/131726269/7726ab64-ff05-45a0-b272-9467474446ec)
+![Screenshot 2024-02-09 193602](https://github.com/KC728/alohomora/assets/131726269/1643dcb8-cf40-4d19-9f8f-6b050b407661)
 
 ## Installing Alohomora
 
