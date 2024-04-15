@@ -1,6 +1,8 @@
 # Alohomora
 ### Alohomora is a plugin/extension that unlocks a few useful features while using the kiosk web-view exploit. For any issues/tech support questions, use the Google Form at the bottom.
 
+### Don't use Alohomora for any illegal activities.
+
 ## Kiosk Web-View Exploit
 
 ### Step 1a
