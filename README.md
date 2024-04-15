@@ -1,7 +1,7 @@
 # Alohomora
 ### Alohomora is a plugin/extension that unlocks a few useful features while using the kiosk web-view exploit. For any issues/tech support questions, use the Google Form at the bottom.
 
-## Kiosk Web-View Exploit (Used in conjunction with Alohomora)
+## Kiosk Web-View Exploit
 
 ### Step 1a
 Go to logout screen, and turn off Wi-Fi using the control panel on bottom right.
