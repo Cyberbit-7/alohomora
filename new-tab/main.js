@@ -4,6 +4,7 @@ import { BatteryDisplay } from "./battery-display.js";
 import { DateDisplay } from "./date-display.js";
 import { TimeDisplay } from "./time-display.js";
 import { BackgroundController } from "./background-controller.js";
+import { UpdateChecker } from "./update-checker.js";
 
 const WIFI_URL = "chrome://os-settings/networks?type=WiFi";
 const BLUETOOTH_URL = "chrome://os-settings/bluetoothDevices";
@@ -89,3 +90,4 @@ new BatteryDisplay(battery);
 new DateDisplay(date);
 new TimeDisplay(time);
 new BackgroundController(colorChange);
+new UpdateChecker();
