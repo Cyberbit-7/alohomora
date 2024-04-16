@@ -27,7 +27,7 @@ class UpdateChecker {
               )
             ) {
               window.open(
-                "https://github.com/bypassiwastaken/skiovox-helper/releases/latest"
+                "https://github.com/KC728/alohomora/releases/latest"
                 // We could use use data.assets[0].browser_download_url, but with the file manager not opening, I
                 // think most people will be dumb and think it auto updated, not knowing they'd have to extract and unpack.
               );
