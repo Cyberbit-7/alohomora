@@ -23,7 +23,7 @@ Click on "Wi-Fi", then in the dropdown, click on "Open in settings", which will 
 ## Installing Alohomora
 
 ### Step 1b
-Download the extension onto your Chromebook from https://github.com/KC728/alohomora. Click on the green "Code" button then click "Download Zip". Alternatively, download the file onto a USB Drive from your home computer and run the extension off of the drive.
+Download the extension onto your Chromebook from https://github.com/KC728/alohomora. Click on "Releases" on the left menu, then click "Source Code (zip)" under the latest release. The extension should now download onto your Chromebook.
 
 ### Step 2b
 Go to chrome://extensions, or click the puzzle piece in the top right then click "Manage extensions". Turn on "Developer mode" using the switch in the top right.
