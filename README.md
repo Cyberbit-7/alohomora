@@ -29,7 +29,7 @@ Download the extension onto your Chromebook from https://github.com/KC728/alohom
 Go to chrome://extensions, or click the puzzle piece in the top right then click "Manage extensions". Turn on "Developer mode" using the switch in the top right.
 
 ### Step 3b
-Click on "Load Unpacked," then in the file prompt window, right-click on "alohomora-main," which will be a greyed-out .zip file. Click "Extract all". Then, double-click the folder also named "alohomora-main", then right-click to select the folder inside. Click the "Open" button, located on the bottom right of the file prompt window.
+Click on "Load Unpacked," then in the file prompt window, right-click on "alohomora-main," which will be a greyed-out .zip file. Click "Extract all". Then, double-click the folder also named "alohomora-main", then click once to select the folder inside. Click the "Open" button, located on the bottom right of the file prompt window.
 
 ### Step 4b
 A keyboard shortcuts menu will appear. To set shortcuts, click on the pencil and copy the shortcut listed on the left. This will unlock shortcut functionality. You can also set your own shortcuts to your preferences. I suggest leaving the Ctrl+U shortcut unfilled, as this can cause issues when using apps such as Google Docs, and is not necessary except for developers.
