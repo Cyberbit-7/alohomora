@@ -25,6 +25,9 @@ Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Do
 ### Step 5a
 Click on "Wi-Fi", then in the dropdown, click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
 
+## Warning
+Warning: Alohomora runs off of a file that will be located inside your downloads folder. This file will either be called "alohomora-1.1" or "alohmora-main". Deleting this file will cause the extension to cease functioning. If this happens, you will need to redownload the file, and follow steps 1b-5b in order to restore functionality.
+
 ## Installing Alohomora
 
 ### Step 1b
@@ -74,8 +77,13 @@ Now to teach you what you are probably here to learn; how do I play Fortnite? Fi
 ### Advanced: Creating a New Window
 Warning: Advanced users only! Previously, the Alohomora exploit was locked to only one window. However, through some clever usage of Javascript and Bookmarklets, this problem was solved, albiet in a slightly complicated method. First, type in about:blank into your URL bar. Press enter to load the blank tab. Next, type in javascript:(function(){window.onbeforeunload=function(){return '';}})(); into the URL bar. Chrome will automatically delete the "javascript" portion of the string, so you will need to reenter "javascript" in front of the bookmarklet string before continuing. Press enter to load the bookmarklet. Then, right-click the tab, and click "Move to new window" in the pop-up that appears.  A new window will then be created. Finally, click "Cancel" in the popup that reads "Leave site? Changes you made may not be saved." Clicking leave will close the window. You now have two unblocked windows instead of one. However the Alt+Q shortcut will only work to switch between two windows maximum. You are able to create more than two windows, but creating a third window will prevent you from accessing your first window until either the second or third window is deleted. 
 
-## Warning
-Warning: Alohomora runs off of a file that will be located inside your downloads folder. This file will either be called "alohomora-1.1" or "alohmora-main". Deleting this file will cause the extension to cease functioning. If this happens, you will need to redownload the file, and follow steps 1b-5b in order to restore functionality.
+### Advanced: Alohomora for v120 and above
+Warning: This is a highly technical process that requires time and patience, especially for inexperienced people. You have been warned.
+
+What you will need: 
+A USB Drive with a capacity of 8GB or greater
+Access to a personal Windows computer to run Chromebook recovery utility
+An enterprise-managed Chromebook running ChromeOS v120 or above
 
 ## Issue Reports/Tech Support:
 https://forms.gle/wu4ocQ1q4bPGiUSr7
