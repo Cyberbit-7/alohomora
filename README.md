@@ -37,6 +37,8 @@ A keyboard shortcuts menu will appear. To set shortcuts, click on the pencil and
 ### Step 5b
 Open up a new tab, then click the "window" icon to resize the window, then click it again to reach fullscreen. You are now fully booted into Alohomora.
 
+### Try and take 5 minutes to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize the Alohomora to it's full potential. If you want to play Fortnite, read the guide.
+
 ## Guide
 
 ### Unlocking Google Applications
@@ -54,8 +56,12 @@ To exit the exploit and use the Chromebook normally, simply hold down the Power 
 ### Circumventing Network Blocks/Firewalls
 While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe has been found to work, linked here: https://tinyurl.com/28xv8jp8. Windscribe does have limited bandwidth to 10GB, but there are many promo codes that give you an additional 30 GB Each. You will also need to create a Windscribe account. uVPN also works, linked here: http://tinyurl.com/t5kktukv. The only available free servers are located in Europe, so latency and availability for websites like Netflix will be affected. The Madrid server has been found to have the lowest latency, while the Milan server retains most popular Netflix shows due to Italian entertainment laws. If you are using Windscribe, turn off the VPN in the extension bar on the top right when a VPN is not needed, such as when accessing websites that are not network-blocked.
 
+### Taking a Screenshot
+To take a screenshot or screen recording, you need to use an extension, since the Alohomora exploit unfortunately disables the normal ChromeOS screenshot capability. I highly suggest using Awesome Screenshot, linked here: https://tinyurl.com/5863bna4. The process of taking a screenshot is a bit more complicated, but is still quite simple to understand. Take a screenshot by clicking on the extension in the top right, then clicking "Capture" and then click either "Visible Part" or "Selected Area". After you take your screenshot, a new tab should appear allowing you to view and edit your screenshot. Click "Done", then click "Download". Your screenshot should now be saved in your files.
+
 ### Using Kiosk App Normally
 You may sometimes need to use the kiosk app for things like standardized testing. To use the kiosk app normally, hold down the Power button on the left side of your Chromebook, then click "Sign-out" in order to exit the exploit. Then boot into the kiosk app normally.
+
 
 ### Web Gaming (How to play Fortnite)
 Now to teach you what you are probably here to learn; how do I play Fortnite? First, you will need to turn on one of the VPN extension listed above. Then, you will navigate to either https://play.geforcenow.com/ or https://luna.amazon.com/. GeForce NOW can be used for free, but has a queue. Amazon Luna does not have any queue, but you will require an Amazon Prime subscription to use Amazon Luna. Link your Epic Games account to the web gaming site, then boot into Fortnite. This can also be used for any other games available in either GeForce Now and Amazon Luna, or any other web gaming site, although other web gaming sites are currently untested. 
