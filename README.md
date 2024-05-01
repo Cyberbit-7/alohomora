@@ -7,6 +7,9 @@
 
 ### Note: The steps listed below are for Chromebooks running on ChromeOS v119 and under. For Chromebooks v120 and above, scroll to the bottom of the guide for special instructions.
 
+### Step 0a
+This is not part of the actual exploit, but if this is your first time setting up/using this exploit, you should do this. While signed in to your school account normally, open Chromebook Settings and navigate to "About ChromeOS". In the window that appears, your version number should be listed. If your version is listed to be Version 119 or below, you are good to go to continue with the exploit! If your version is listed to be Version 120 or above, this exploit will not work with these steps. Scroll to the bottom of the guide to see instructions for v120 and above.
+
 ### Step 1a
 Go to logout screen, and turn off Wi-Fi using the control panel on bottom right.
 
