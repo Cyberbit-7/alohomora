@@ -50,7 +50,7 @@ Open up a new tab, then click the "window" icon to resize the window, then click
 ## Guide
 
 ### Unlocking Google Applications
-To use Google applications such as Google Docs, click on the "add user" icon, which will be the third icon from the right on the top right. Sign-in to your school account normally. 
+To use Google applications such as Google Docs, click on the "add user" icon, which will be the third icon from the right on the top right. Sign-in to your enterprise account normally. 
 
 ### Connecting Bluetooth Devices
 To connect Bluetooth devices such as earbuds, click on the "Bluetooth" icon, which will be the third icon from the right on the bottom left. This will open a new tab that allows you to pair, connect, and disconnect Bluetooth devices
@@ -77,13 +77,23 @@ Now to teach you what you are probably here to learn; how do I play Fortnite? Fi
 ### Advanced: Creating a New Window
 Warning: Advanced users only! Previously, the Alohomora exploit was locked to only one window. However, through some clever usage of Javascript and Bookmarklets, this problem was solved, albiet in a slightly complicated method. First, type in about:blank into your URL bar. Press enter to load the blank tab. Next, type in javascript:(function(){window.onbeforeunload=function(){return '';}})(); into the URL bar. Chrome will automatically delete the "javascript" portion of the string, so you will need to reenter "javascript" in front of the bookmarklet string before continuing. Press enter to load the bookmarklet. Then, right-click the tab, and click "Move to new window" in the pop-up that appears.  A new window will then be created. Finally, click "Cancel" in the popup that reads "Leave site? Changes you made may not be saved." Clicking leave will close the window. You now have two unblocked windows instead of one. However the Alt+Q shortcut will only work to switch between two windows maximum. You are able to create more than two windows, but creating a third window will prevent you from accessing your first window until either the second or third window is deleted. 
 
-### Advanced: Alohomora for v120 and above
-Warning: This is a highly technical process that requires time and patience, especially for inexperienced people. You have been warned.
+## Advanced: Alohomora for v120 and above
 
-What you will need: 
+### Warning: This is a highly technical process that requires time and patience, especially for inexperienced people. You have been warned.
+
+### What you will need: 
 A USB Drive with a capacity of 8GB or greater
 Access to a personal Windows computer to run Chromebook recovery utility
 An enterprise-managed Chromebook running ChromeOS v120 or above
+The password to a stable Wi-fi network, if you are doing this outside of your enterprise location, which I reccomend for first-time users doing this alone
+
+### Tips:
+Keep this page open on your personal computer, or have some way to view these instructions not on your Chromebook
+
+### Creating a ChromeOS recovery Drive
+
+### Step 1c
+
 
 ## Issue Reports/Tech Support:
 https://forms.gle/wu4ocQ1q4bPGiUSr7
