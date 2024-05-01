@@ -3,6 +3,8 @@
 
 ### Don't use Alohomora for any illegal activities.
 
+### Note: The steps listed below are for Chromebooks running on ChromeOS v119 and under. For Chromebooks v120 and above, scroll to the bottom of the guide for special instructions.
+
 ## Alohomora Kiosk Web-View Exploit
 
 ### Step 1a
