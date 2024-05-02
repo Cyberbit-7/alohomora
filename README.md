@@ -1,7 +1,7 @@
 # Alohomora
-### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, open an issue to this repository using Github.
+### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, open an issue to this repository using Github. Don't use Alohomora for any illegal activities.
 
-### Don't use Alohomora for any illegal activities.
+### Please take 5 minutes of your time to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize the Alohomora to it's full potential. If you can't figure out how to sign-in to Google, read the guide. If you can't figure out how to bypass your school's Wi-fi, read the guide. If you can't figure out how to play Fortnite on your Chromebook, READ THE GUIDE.
 
 ## Alohomora Kiosk Web-View Exploit
 
@@ -45,11 +45,9 @@ A keyboard shortcuts menu will appear. To set shortcuts, click on the pencil and
 ### Step 5b
 Open up a new tab, then click the "window" icon to resize the window, then click it again to reach fullscreen. You are now fully booted into Alohomora.
 
-### Try and take 5 minutes to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize the Alohomora to it's full potential. If you want to play Fortnite, read the guide.
-
 ## Sigining into your Google Account
 
-### Sigining into Google accounts regularly is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
+### Sigining into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
 
 ### Step 1c
 Navigate to a new tab, where all the Alohomora shortcuts are located. 
@@ -64,6 +62,23 @@ Sign into your Google Account normally. I suggest sigining into your school acco
 Your Google Account is now saved to your device. Now, whenever an application such as Google Docs asks you to sign-in, you can simply select your account from the list of accounts saved to the device.
 
 ## Installing a VPN 
+
+### While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe and uVPN have been found to work. Windscribe requires you to create an account and limits you to 30 GB of data per month, but allows free access to VPN servers in the United States, giving much lower latency. uVPN does not require you to create an account and has unlimited data, but the free version only allows users to access VPN servers located in Europe, causing much higher latency. Windscribe has been found to be the much better choice, as 30 GB of data per month is usually more than suffficient. The instructions listed below are for the installation of Windscribe, but uVPN is linked here for your usage if desired: https://tinyurl.com/t5kktukv
+
+### Step 1d
+Download the Windscribe extension from the link listed here: https://tinyurl.com/28xv8jp8. Once the extension fully installs, pin the extension to your extension bar.
+
+### Step 2d
+Click on the Windscribe extension in your extension bar, located on the top-right. The extension should look like a black and white circle enclosing a white W. Click on the green "Get Started" button in the extension window. Click the "Free" plan.
+
+### Step 3d
+Enter in a username and password you will remember. Write this down somewhere if necessary. Enter in an email you have logged into already and have access to (both school and personal accounts should work). Click "Have a Voucher", and enter "ISRA2023" in the Voucher Code textbox that appears. Leave R.O.B.E.R.T. enabled. Finally, complete the captcha and click "Create Account"
+
+### Step 4d
+Open https://mail.google.com. You should have an email from Windscribe asking you to verify your account. (If you do not see the email, check your spam/junk folder.) Open this email, and verify your account.
+
+### Step 5d
+Click on the Windscribe extension in your extension bar. Click "Login", then enter the username and password you created. Finally, click the big white button with the upside-down off symbol. If the VPN is working, the extension icon should now turn green. Congratulations! You have now bypassed all network blocks! Since Windscribe limits you to 30GB of data per month, I suggest turning off the VPN when using sites not blocked by your network, as this wastes data and may slow down your internet.
 
 ## Guide
 
@@ -102,7 +117,7 @@ Warning: Advanced users only! Previously, the Alohomora exploit was locked to on
 A USB Drive with a capacity of 8GB or greater
 Access to a personal Windows computer to run Chromebook recovery utility
 An enterprise-managed Chromebook running ChromeOS v120 or above
-The password to a stable Wi-fi network, if you are doing this outside of your enterprise location, which I reccomend for first-time users doing this alone
+The password to a stable Wi-fi network, if you are doing this outside of your school, which I reccomend for first-time users doing this alone
 
 ### Tips:
 Keep this page open on your personal computer, or have some way to view these instructions not on your Chromebook
