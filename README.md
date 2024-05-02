@@ -82,9 +82,6 @@ Click on the Windscribe extension in your extension bar. Click "Login", then ent
 
 ## Guide
 
-### Unlocking Google Applications
-To use Google applications such as Google Docs, click on the "add user" icon, which will be the third icon from the right on the top right. Sign-in to your enterprise account normally. 
-
 ### Connecting Bluetooth Devices
 To connect Bluetooth devices such as earbuds, click on the "Bluetooth" icon, which will be the third icon from the right on the bottom left. This will open a new tab that allows you to pair, connect, and disconnect Bluetooth devices
 
@@ -93,9 +90,6 @@ One problem unique to the Alohomora exploit is that it is not possible to exit f
 
 ### Exiting the Exploit
 To exit the exploit and use the Chromebook normally, simply hold down the Power button on the left side of your Chromebook, then click "Sign-out"
-
-### Circumventing Network Blocks/Firewalls
-While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe has been found to work, linked here: https://tinyurl.com/28xv8jp8. Windscribe does have limited bandwidth to 10GB, but there are many promo codes that give you an additional 30 GB Each. You will also need to create a Windscribe account. uVPN also works, linked here: http://tinyurl.com/t5kktukv. The only available free servers are located in Europe, so latency and availability for websites like Netflix will be affected. The Madrid server has been found to have the lowest latency, while the Milan server retains most popular Netflix shows due to Italian entertainment laws. If you are using Windscribe, turn off the VPN in the extension bar on the top right when a VPN is not needed, such as when accessing websites that are not network-blocked.
 
 ### Taking a Screenshot
 To take a screenshot or screen recording, you need to use an extension, since the Alohomora exploit unfortunately disables the normal ChromeOS screenshot capability. I highly suggest using Awesome Screenshot, linked here: https://tinyurl.com/5863bna4. The process of taking a screenshot is a bit more complicated, but is still quite simple to understand. Take a screenshot by clicking on the extension in the top right, then clicking "Capture" and then click either "Visible Part" or "Selected Area". After you take your screenshot, a new tab should appear allowing you to view and edit your screenshot. Click "Done", then click "Download". Your screenshot should now be saved in your files.
