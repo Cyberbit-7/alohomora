@@ -1,9 +1,11 @@
 # Alohomora
 ### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, open an issue to this repository using Github. Don't use Alohomora for any illegal activities.
 
-Please take 5 minutes of your time to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize the Alohomora to it's full potential. If you can't figure out how to sign-in to Google, read the guide. If you can't figure out how to bypass your school's Wi-fi, read the guide. If you can't figure out how to play Fortnite on your Chromebook, READ THE GUIDE.
+Please take a few minutes of your time to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize Alohomora to it's full potential. If you can't figure out how to sign-in to Google, read the guide. If you can't figure out how to bypass your school's Wi-fi, read the guide. If you can't figure out how to play Fortnite on your Chromebook, READ THE GUIDE. 
 
-## Alohomora Kiosk Web-View Exploit
+### Entering the exploit is Section A, and setup is Section B-D. You only have to do Section B-D once. I suggest commiting Section A to memory, or at least saving it to your phone so you know how to get back into the exploit if you exit out accidentally. Good luck!
+
+## Section A: Alohomora Kiosk Web-View Exploit
 
 ### Note: The steps listed below are for Chromebooks running on ChromeOS v119 and under. For Chromebooks v120 and above, scroll to the bottom of the guide for special instructions.
 
@@ -28,7 +30,8 @@ Click on "Wi-Fi", then in the dropdown, click on "Open in settings", which will 
 ### Warning
 Warning: Alohomora runs off of a file that will be located inside your downloads folder. This file will either be called "alohomora-1.1" or "alohmora-main". Deleting this file will cause the extension to cease functioning. If this happens, you will need to redownload the file, and follow steps 1b-5b in order to restore functionality.
 
-## Installing Alohomora
+
+## Section B: Installing Alohomora
 
 ### Step 1b
 Download the extension onto your Chromebook from https://github.com/KC728/alohomora. Click on "Releases" on the left menu, then click "Source Code (zip)" under the latest release. The extension should now download onto your Chromebook.
@@ -45,7 +48,7 @@ A keyboard shortcuts menu will appear. To set shortcuts, click on the pencil and
 ### Step 5b
 Open up a new tab, then click the "window" icon to resize the window, then click it again to reach fullscreen. You are now fully booted into Alohomora.
 
-## Sigining into your Google Account
+## Section C: Sigining into your Google Account
 
 Signing into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
 
@@ -61,7 +64,8 @@ Sign into your Google Account normally. I suggest sigining into your school acco
 ### Step 4c
 Your Google Account is now saved to your device. Now, whenever an application such as Google Docs asks you to sign-in, you can simply select your account from the list of accounts saved to the device.
 
-## Installing a VPN 
+
+## Section D: Installing a VPN 
 
 While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe and uVPN have been found to work. Windscribe requires you to create an account and limits you to 30 GB of data per month, but allows free access to VPN servers in the United States, giving much lower latency. uVPN does not require you to create an account and has unlimited data, but the free version only allows users to access VPN servers located in Europe, causing much higher latency. Windscribe has been found to be the much better choice, as 30 GB of data per month is usually more than suffficient. The instructions listed below are for the installation of Windscribe, but uVPN is linked here for your usage if desired: https://tinyurl.com/t5kktukv
 
@@ -79,6 +83,7 @@ Open https://mail.google.com. You should have an email from Windscribe asking yo
 
 ### Step 5d
 Click on the Windscribe extension in your extension bar. Click "Login", then enter the username and password you created. Finally, click the big white button with the upside-down off symbol. If the VPN is working, the extension icon should now turn green. Congratulations! You have now bypassed all network blocks! Since Windscribe limits you to 30GB of data per month, I suggest turning off the VPN when using sites not blocked by your network, as this wastes data and may slow down your internet.
+
 
 ## Guide
 
@@ -100,19 +105,30 @@ You may sometimes need to use the kiosk app for things like standardized testing
 ### Web Gaming (How to play Fortnite)
 Now to teach you what you are probably here to learn; how do I play Fortnite? First, you will need to turn on one of the VPN extension listed above. Then, you will navigate to either https://play.geforcenow.com/ or https://luna.amazon.com/. GeForce NOW can be used for free, but has a queue. Amazon Luna does not have any queue, but you will require an Amazon Prime subscription to use Amazon Luna. Link your Epic Games account to the web gaming site, then boot into Fortnite. This can also be used for any other games available in either GeForce Now and Amazon Luna, or any other web gaming site, although other web gaming sites are currently untested. 
 
-## Advanced (you don't have to read this if you don't want to, but the new window one is kinda useful)
 
-### Advanced: Creating a New Window
-Warning: Advanced users only! Previously, the Alohomora exploit was locked to only one window. However, through some clever usage of Javascript and Bookmarklets, this problem was solved, albiet in a slightly complicated method. First, type in about:blank into your URL bar. Press enter to load the blank tab. Next, type in javascript:(function(){window.onbeforeunload=function(){return '';}})(); into the URL bar. Chrome will automatically delete the "javascript" portion of the string, so you will need to reenter "javascript" in front of the bookmarklet string before continuing. Press enter to load the bookmarklet. Then, right-click the tab, and click "Move to new window" in the pop-up that appears.  A new window will then be created. Finally, click "Cancel" in the popup that reads "Leave site? Changes you made may not be saved." Clicking leave will close the window. You now have two unblocked windows instead of one. However the Alt+Q shortcut will only work to switch between two windows maximum. You are able to create more than two windows, but creating a third window will prevent you from accessing your first window until either the second or third window is deleted. 
+# Advanced 
 
-## Advanced: Alohomora for v120 and above
+### You don't have to read this if you don't want to, none of this will stop you from using the extension/exploit normally. A lot of this is very specific and requires patience. The creating a new window one is kinda useful and not too hard though, so take a look if you want.
 
-### Warning: This is a highly technical process that requires time and patience, especially for inexperienced people. You have been warned.
+## Creating a New Window
+
+### Warning: Advanced users only! 
+
+Previously, the Alohomora exploit was locked to only one window. However, through some clever usage of Javascript and Bookmarklets, this problem was solved, albiet in a slightly complicated method. First, type in about:blank into your URL bar. Press enter to load the blank tab. Next, type in javascript:(function(){window.onbeforeunload=function(){return '';}})(); into the URL bar. Chrome will automatically delete the "javascript" portion of the string, so you will need to reenter "javascript" in front of the bookmarklet string before continuing. Press enter to load the bookmarklet. Then, right-click the tab, and click "Move to new window" in the pop-up that appears.  A new window will then be created. Finally, click "Cancel" in the popup that reads "Leave site? Changes you made may not be saved." Clicking leave will close the window. You now have two unblocked windows instead of one. However the Alt+Q shortcut will only work to switch between two windows maximum. You are able to create more than two windows, but creating a third window will prevent you from accessing your first window until either the second or third window is deleted. 
+
+## Alohomora for v120 and above
+
+### Warning: This is a highly technical, very advanced process that requires time and patience, especially for inexperienced people. You have been warned.
+
+## Creating a ChromeOS recovery Drive (Instructions coming soon)
 
 ### What you will need: 
 A USB Drive with a capacity of 8GB or greater
+
 Access to a personal Windows computer to run Chromebook recovery utility
+
 An enterprise-managed Chromebook running ChromeOS v120 or above
+
 The password to a stable Wi-fi network, if you are doing this outside of your school, which I reccomend for first-time users doing this alone
 
 ### Tips:
