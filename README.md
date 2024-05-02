@@ -1,5 +1,5 @@
 # Alohomora
-### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, use the Google Form at the bottom.
+### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, open an issue to this repository using Github.
 
 ### Don't use Alohomora for any illegal activities.
 
@@ -47,6 +47,24 @@ Open up a new tab, then click the "window" icon to resize the window, then click
 
 ### Try and take 5 minutes to read the whole guide. This will save you a lot of time and suffering, and will teach you how to utilize the Alohomora to it's full potential. If you want to play Fortnite, read the guide.
 
+## Sigining into your Google Account
+
+### Sigining into Google accounts regularly is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
+
+### Step 1c
+Navigate to a new tab, where all the Alohomora shortcuts are located. 
+
+### Step 2c
+Click on the "add user" icon, which will be the third icon from the right on the top right. The symbol should be a person with a + symbol next to them.
+
+### Step 3c
+Sign into your Google Account normally. I suggest sigining into your school account first, then repeating this process for your personal accounts.
+
+### Step 4c
+Your Google Account is now saved to your device. Now, whenever an application such as Google Docs asks you to sign-in, you can simply select your account from the list of accounts saved to the device.
+
+## Installing a VPN 
+
 ## Guide
 
 ### Unlocking Google Applications
@@ -70,7 +88,6 @@ To take a screenshot or screen recording, you need to use an extension, since th
 ### Using Kiosk App Normally
 You may sometimes need to use the kiosk app for things like standardized testing. To use the kiosk app normally, hold down the Power button on the left side of your Chromebook, then click "Sign-out" in order to exit the exploit. Then boot into the kiosk app normally.
 
-
 ### Web Gaming (How to play Fortnite)
 Now to teach you what you are probably here to learn; how do I play Fortnite? First, you will need to turn on one of the VPN extension listed above. Then, you will navigate to either https://play.geforcenow.com/ or https://luna.amazon.com/. GeForce NOW can be used for free, but has a queue. Amazon Luna does not have any queue, but you will require an Amazon Prime subscription to use Amazon Luna. Link your Epic Games account to the web gaming site, then boot into Fortnite. This can also be used for any other games available in either GeForce Now and Amazon Luna, or any other web gaming site, although other web gaming sites are currently untested. 
 
@@ -90,10 +107,6 @@ The password to a stable Wi-fi network, if you are doing this outside of your en
 ### Tips:
 Keep this page open on your personal computer, or have some way to view these instructions not on your Chromebook
 
-### Creating a ChromeOS recovery Drive
-
-### Step 1c
+### Creating a ChromeOS recovery Drive (Instructions coming soon)
 
 
-## Issue Reports/Tech Support:
-https://forms.gle/wu4ocQ1q4bPGiUSr7
