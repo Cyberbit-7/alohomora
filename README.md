@@ -47,7 +47,7 @@ Open up a new tab, then click the "window" icon to resize the window, then click
 
 ## Sigining into your Google Account
 
-Sigining into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
+Signing into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
 
 ### Step 1c
 Navigate to a new tab, where all the Alohomora shortcuts are located. 
