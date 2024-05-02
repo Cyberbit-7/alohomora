@@ -25,7 +25,7 @@ Click "Diagnose", then click "Add other Wi-Fi network" to turn Wi-Fi back on. Do
 ### Step 5a
 Click on "Wi-Fi", then in the dropdown, click on "Open in settings", which will boot you into a basic Google window, which is missing a few key features. To unlock these features, you will need to to download Alohomora.
 
-## Warning
+### Warning
 Warning: Alohomora runs off of a file that will be located inside your downloads folder. This file will either be called "alohomora-1.1" or "alohmora-main". Deleting this file will cause the extension to cease functioning. If this happens, you will need to redownload the file, and follow steps 1b-5b in order to restore functionality.
 
 ## Installing Alohomora
