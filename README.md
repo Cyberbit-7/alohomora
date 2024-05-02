@@ -1,7 +1,7 @@
 # Alohomora
 ### Alohomora is a plugin/extension that unlocks a few useful features while using the Alohomora kiosk web-view exploit. For any issues/tech support questions, open an issue to this repository using Github. Don't use Alohomora for any illegal activities.
 
-Please take a few minutes of your time to read the whole read-me. This will save you a lot of time and suffering, and will teach you how to utilize Alohomora to it's full potential. If you can't figure out how to sign-in to Google, read the guide. If you can't figure out how to bypass your school's Wi-fi, read the guide. If you can't figure out how to play Fortnite on your Chromebook, READ THE GUIDE. 
+Please take a few minutes of your time to read the entire read-me. This will save you a lot of time and suffering, and will teach you how to utilize Alohomora to it's full potential. If you can't figure out how to sign-in to Google, read the guide. If you can't figure out how to bypass your school's Wi-fi, read the guide. If you can't figure out how to play Fortnite on your Chromebook, READ THE GUIDE. 
 
 ### Entering the exploit is Section A, and setup is Section B-D. You only have to do Section B-D once. I suggest commiting Section A to memory, or at least saving it to your phone so you know how to get back into the exploit if you exit out accidentally. Good luck!
 
