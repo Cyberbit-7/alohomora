@@ -47,7 +47,7 @@ Open up a new tab, then click the "window" icon to resize the window, then click
 
 ## Sigining into your Google Account
 
-### Sigining into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
+Sigining into Google accounts normally is a bit buggy due to how kiosk apps are coded, cauing issues when trying to use Google apps such as Google Docs. However, the process is still very simple.
 
 ### Step 1c
 Navigate to a new tab, where all the Alohomora shortcuts are located. 
@@ -63,7 +63,7 @@ Your Google Account is now saved to your device. Now, whenever an application su
 
 ## Installing a VPN 
 
-### While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe and uVPN have been found to work. Windscribe requires you to create an account and limits you to 30 GB of data per month, but allows free access to VPN servers in the United States, giving much lower latency. uVPN does not require you to create an account and has unlimited data, but the free version only allows users to access VPN servers located in Europe, causing much higher latency. Windscribe has been found to be the much better choice, as 30 GB of data per month is usually more than suffficient. The instructions listed below are for the installation of Windscribe, but uVPN is linked here for your usage if desired: https://tinyurl.com/t5kktukv
+While using school Wi-Fi, network blocks for things like GeForce NOW and Coolmathgames (if anyone still plays that) may still be present. To circumvent this, you will need to download a VPN extension. Most VPN extensions are also blocked, but Windscribe and uVPN have been found to work. Windscribe requires you to create an account and limits you to 30 GB of data per month, but allows free access to VPN servers in the United States, giving much lower latency. uVPN does not require you to create an account and has unlimited data, but the free version only allows users to access VPN servers located in Europe, causing much higher latency. Windscribe has been found to be the much better choice, as 30 GB of data per month is usually more than suffficient. The instructions listed below are for the installation of Windscribe, but uVPN is linked here for your usage if desired: https://tinyurl.com/t5kktukv
 
 ### Step 1d
 Download the Windscribe extension from the link listed here: https://tinyurl.com/28xv8jp8. Once the extension fully installs, pin the extension to your extension bar.
